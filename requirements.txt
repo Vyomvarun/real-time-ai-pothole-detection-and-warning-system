@@ -1,0 +1,17 @@
+ultralytics
+opencv-python
+numpy
+
+
+
+
+
+
+
+
+
+
+
+
+
+add requirement file
